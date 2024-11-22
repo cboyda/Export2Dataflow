@@ -57,6 +57,8 @@ Julian Kaiser, for reviewing, testing and adding some features to the script.
 [LinkedIn](https://www.linkedin.com/in/julian-kaiser-5b849519a/) 
 
 ## FAQ
+### Creates Fabric Gen 1 Dataflow
+This does not create a gen 2 dataflow, and only allows .json export.  A gen 2 dataflow can only import from a power query template at this time.  Unfortunately this solution is not useful with the latest Fabric verion as of Nov 2024.
 ### The Document model button does not appear in Power BI Desktop
 There are a few things that can cause this issue. There are a few things you can check up front:
 
